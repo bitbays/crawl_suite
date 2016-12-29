@@ -1,0 +1,3 @@
+fabric
+simple_threadpool
+pyquery

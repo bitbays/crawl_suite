@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+*.swo
+*.pyc
+*.mo
+node_modules/
+/config.py
